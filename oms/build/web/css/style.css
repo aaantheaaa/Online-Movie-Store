@@ -1,0 +1,131 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019. 5. 19, 오전 10:51:52
+    Author     : el181
+*/
+/*
+table#movieList {
+    margin-left: 50px;
+    width: 90%;
+}
+*/
+/*table#movieList th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}*/
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.header h1{
+    float: left;
+}
+
+.button1 {
+    float: right;
+    margin-left: 20px;
+}
+
+.navbar-nav {
+	display:block;
+}
+
+.navbar-nav .nav-link {
+	display:inline;
+	padding:20px;
+}
+.carousel a {
+	text-decoration: none;
+	color:white;
+}
+
+.form-inline {
+    margin:0;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.75);
+    padding-top: 10px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-height: 130px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.scrollimg {
+    width:800px;
+    height:400px;
+    object-fit:cover;
+    object-position: top;
+}
+.movieCard {
+    object-fit:cover;
+    object-position: top;
+}
+
+/*
+.Button1 {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bddbfa), color-stop(1, #80b5ea));
+	background:-moz-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-webkit-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-o-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-ms-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#80b5ea',GradientType=0);
+	background-color:#bddbfa;
+	-moz-border-radius:14px;
+	-webkit-border-radius:14px;
+	border-radius:14px;
+	border:3px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+}
+
+.header .Button1 {
+        float: right;
+        display: block;
+        margin-top: 10px;
+        margin-bottom:10px;
+}
+.Button1:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #80b5ea), color-stop(1, #bddbfa));
+	background:-moz-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:-webkit-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:-o-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:-ms-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);
+	background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80b5ea', endColorstr='#bddbfa',GradientType=0);
+	background-color:#80b5ea;
+}
+.Button1:active {
+	position:relative;
+	top:1px;
+}*/
+
+   

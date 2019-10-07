@@ -1,0 +1,17 @@
+SMAP
+delete_005fmovie_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete_movie.jsp
+delete_movie.jsp
+*L
+5,2:47
+8,7:49
+16,3:58
+18:61
+19:62,3
+20:65
+21,2:67
+22,2:69
+*E
